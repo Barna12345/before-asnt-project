@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-contein{
+    width: 100vw;
+    background-color: rgb(49, 47, 47);
+    color: white;
+    padding: 5px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.photo{
+    width: 80px;
+height: 50px;
+}
+.list{
+    display: flex;
+   
+
+}
+.menu{
+    margin: 15px 15px 15px 15px;
+}
+.contain{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url('../assets/images/DC-background-agency.jpg');
+    display: flex;
+}
+.banner-info{
+    width: 100%;
+    align-items: center;
+    height: 100%;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
